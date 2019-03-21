@@ -1,0 +1,14 @@
+# capability数据配置
+---
+platformName: Android
+platformVersion: 7.1
+deviceName: 721QADRG345FC
+app: D:\AutoTest\apps\com.excelliance.dualaid-10023-2-release (84).apk
+packageName: com.excelliance.dualaid
+appActivity: com.excelliance.kxqp.ui.HelloActivity
+automationName: uiautomator2
+unicodekeyboard: True   --使用编码方式发送字符串，解决中文乱码问题
+resetkeyboard: True   --隐藏键盘
+ip: 127.0.0.1
+port: 4723
+
